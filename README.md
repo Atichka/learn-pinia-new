@@ -14,7 +14,7 @@
 ```bash
 # Клонирование репозитория
 git clone https://github.com/atichka/learn-pinia-new.git
-cd learn-pinia
+cd learn-pinia-new
 
 # Установка зависимостей
 npm install
